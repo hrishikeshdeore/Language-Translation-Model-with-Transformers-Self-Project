@@ -1,5 +1,5 @@
 # Language-Translation-Model-with-Transformers-Self-Project
-## Visit the following link to see the results \
+## Visit the following link to see the results 
 https://39467b0ada5ac0d418.gradio.live/
 
 base model used: https://huggingface.co/Helsinki-NLP/opus-mt-en-hi \
