@@ -1,4 +1,7 @@
 # Language-Translation-Model-with-Transformers-Self-Project
+## Visit the following link to see the results\
+https://39467b0ada5ac0d418.gradio.live/
+
 base model used: https://huggingface.co/Helsinki-NLP/opus-mt-en-hi \
 its benchmarks for BLEU are as follows \
 ![image](https://github.com/user-attachments/assets/0d325443-eaff-4c55-8e70-8f75996eff0f)
