@@ -1,6 +1,7 @@
 # Language-Translation-Model-with-Transformers-Self-Project
 base model used: https://huggingface.co/Helsinki-NLP/opus-mt-en-hi \
-its benchmarks for BLeU are as follows![image](https://github.com/user-attachments/assets/0d325443-eaff-4c55-8e70-8f75996eff0f)
+its benchmarks for BLeU are as follows \
+![image](https://github.com/user-attachments/assets/0d325443-eaff-4c55-8e70-8f75996eff0f)
 
 while our fine tuned model has achived significant 0.48 BLeU Score, which is 3times the base model.
 
