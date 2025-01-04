@@ -2,7 +2,15 @@
 ## Visit the following link to see the results 
 https://39467b0ada5ac0d418.gradio.live/
 
-base model used: https://huggingface.co/Helsinki-NLP/opus-mt-en-hi \
+## Project Overview
+This project focuses on fine-tuning the `Helsinki-NLP/opus-mt-en-hi` transformer model using custom source data to improve English-to-Hindi translation quality. It involves preparing the dataset, optimizing the model through fine-tuning, evaluating performance with BLEU scores, and deploying the model for real-time translation using Gradio.
+
+## Features
+- **Dataset**: IIT Bombay English-Hindi parallel corpus from Hugging Face.
+- **Fine-Tuned Model**: Enhances translation quality by adapting the pre-trained `Helsinki-NLP/opus-mt-en-hi` model to custom data.
+- **Evaluation**: BLEU score computation for translation quality measurement.
+- **Deployment**: Gradio interface for real-time, user-friendly translation.
+
 its benchmarks for BLEU are as follows \
 ![image](https://github.com/user-attachments/assets/0d325443-eaff-4c55-8e70-8f75996eff0f)
 
@@ -96,7 +104,7 @@ for example in dataset:
 
 ## Results
 - **Improved Translation Quality**: Fine-tuning resulted in higher BLEU scores compared to the base model.
-- **BLEU Score**: Achieved an average BLEU score of `X.X` on the first 100 test examples.
+- **BLEU Score**: Achieved an average BLEU score of `0.48` on the first 100 test examples.
 
 ---
 
