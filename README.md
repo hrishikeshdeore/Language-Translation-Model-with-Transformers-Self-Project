@@ -1,6 +1,6 @@
 # Language-Translation-Model-with-Transformers-Self-Project
 ## Visit the following link to see the results 
-https://39467b0ada5ac0d418.gradio.live/
+https://04fd38e5f3fee4a52e.gradio.live/
 
 ## Project Overview
 This project focuses on fine-tuning the `Helsinki-NLP/opus-mt-en-hi` transformer model using custom source data to improve English-to-Hindi translation quality. It involves preparing the dataset, optimizing the model through fine-tuning, evaluating performance with BLEU scores, and deploying the model for real-time translation using Gradio.
